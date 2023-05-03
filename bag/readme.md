@@ -1,4 +1,4 @@
-# PROGRAMACION TEST MOCHILA
+# PROGRAMACION MOCHILA
 ## DE QUE SE TRATA 
 En esta carpeta se encuentra tanto la programacion en python como en apex saleforce de la prueba de organizacion de elementos en una mochila deacuerdo a su peso y su valor 
 ## COMO EJECUTARLO
